@@ -1,6 +1,6 @@
 # Arabic Companies Sentiment Analysis
 
-This project focuses on sentiment analysis of Arabic companies' reviews. The dataset, sourced from Kaggle, includes reviews for 12 companies with a total of 39k reviews. Reviews are rated as -1 for negative, 0 for neutral, and 1 for positive.
+This project focuses on sentiment analysis of Arabic companies' reviews. The dataset, sourced from Kaggle, includes reviews for 12 companies with a total of 39k reviews. Reviews are rated as -1 for negative, 0 for neutral, and 1 for positive
 
 ## Project Overview
 
