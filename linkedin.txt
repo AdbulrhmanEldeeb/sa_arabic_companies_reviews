@@ -1,0 +1,41 @@
+I've just completed a comprehensive project focused on sentiment analysis of Arabic companies' reviews acheving auc roc 94% and f1 score 90% on arabic text. This project involved analyzing a dataset containing 39k reviews across 12 companies
+
+🧠 Key Highlights:
+
+Exploratory Data Analysis (EDA): Analyzed company reviews and ratings to extract meaningful insights.
+
+Binary Classification: Dropped neutral reviews to focus on predicting negative vs. positive sentiments.
+
+Machine Learning Models: Implemented and fine-tuned models like Logistic Regression, Naive Bayes, Perceptron, and more. Achieved AUC-ROC scores ranging from 0.92 to 0.94!
+
+Deep Learning Models: Experimented with LSTM, CNN, and Feedforward Neural Networks using pre-trained FastText embeddings for Egyptian Arabic. The results were impressive, closely matching the performance of traditional machine learning models.
+
+Real-time Sentiment Prediction: Built a Gradio app to demonstrate the model's real-time sentiment analysis capabilities.
+
+📊 Metrics & Evaluation:
+
+Detailed model performance metrics (precision, recall, F1 score, accuracy) are available in the results file.
+
+Comprehensive comparison between machine learning and deep learning approaches.
+
+🔗 Check out the Project:
+
+GitHub: 
+
+https://github.com/AdbulrhmanEldeeb/sa_arabic_companies_reviews
+
+Kaggle Notebook:
+
+https://www.kaggle.com/code/abdulrhmaneldeeb/arabic-companies-sa
+
+Pre-trained Embeddings: FastText Egyptian Embeddings
+
+https://www.kaggle.com/datasets/thraxer/fasttext-egyptian-embedding
+
+I’m thrilled with the results and the potential this work has for real-world 
+
+applications. 💡 If you're interested in sentiment analysis, NLP, or data science in general, I'd love to connect and discuss!
+
+
+
+#NLP #MachineLearning #DataScience #SentimentAnalysis #ArabicLanguage #DeepLearning #AI #Kaggle #TextClassification 
